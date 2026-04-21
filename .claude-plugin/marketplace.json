@@ -24,6 +24,15 @@
         "url": "https://github.com/esxr/builder.git"
       },
       "homepage": "https://github.com/esxr/builder"
+    },
+    {
+      "name": "content-studio",
+      "description": "MCP-enforced video pipeline with narrator intelligence — from raw footage to polished 9:16 marketing videos.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/esxr/content-studio.git"
+      },
+      "homepage": "https://github.com/esxr/content-studio"
     }
   ]
 }

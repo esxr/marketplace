@@ -8,6 +8,7 @@ Claude Code plugin marketplace.
 |--------|-------------|
 | [product-wiki](https://github.com/esxr/product-wiki) | Self-healing DAG of LLM-authored wiki pages synced with your codebase |
 | [builder](https://github.com/esxr/builder) | Recursive task orchestrator with parallel agent execution |
+| [content-studio](https://github.com/esxr/content-studio) | MCP-enforced video pipeline with narrator intelligence — from raw footage to polished 9:16 marketing videos |
 
 ## Install
 
