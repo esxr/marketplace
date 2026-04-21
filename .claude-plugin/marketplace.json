@@ -1,0 +1,29 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pranav.com.au",
+  "description": "Developer productivity plugins for Claude Code — task orchestration, living documentation, and more.",
+  "owner": {
+    "name": "Pranav",
+    "email": "pranav@kcart.dev"
+  },
+  "plugins": [
+    {
+      "name": "product-wiki",
+      "description": "Maintains a self-healing DAG of LLM-authored wiki pages automatically synced with your codebase as you build.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/esxr/product-wiki.git"
+      },
+      "homepage": "https://github.com/esxr/product-wiki"
+    },
+    {
+      "name": "builder",
+      "description": "Domain-agnostic recursive task orchestrator — decomposes complex tasks into trees, spawns parallel agents, coordinates via shared state, and verifies outputs.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/esxr/builder.git"
+      },
+      "homepage": "https://github.com/esxr/builder"
+    }
+  ]
+}
